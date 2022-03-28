@@ -121,7 +121,7 @@ namespace Section11_144
                                 Console.WriteLine();
                             }
 
-                            using (System.IO.StreamWriter file = new System.IO.StreamWriter(@"C:\Users\Daniel\source\repos\Nice Logics Exercise\Hotel Reserving Console App\Relatory " + R1List.Count + ".txt"))
+                            using (System.IO.StreamWriter file = new System.IO.StreamWriter(@"C:\Users\Daniel\source\repos\AFTER 17 03 2022\For Github\CS-Hotel-Reserving-Console-App\Relatory " + R1List.Count + ".txt"))
                             foreach (string obj in Conv)
                             {
                                 file.WriteLine(obj);
@@ -139,7 +139,7 @@ namespace Section11_144
                                 Console.WriteLine();
                             }
 
-                            using (System.IO.StreamWriter file = new System.IO.StreamWriter(@"C:\Users\Daniel\source\repos\Nice Logics Exercise\Hotel Reserving Console App\Relatory " + R1List.Count + ".txt"))
+                            using (System.IO.StreamWriter file = new System.IO.StreamWriter(@"C:\Users\Daniel\source\repos\AFTER 17 03 2022\For Github\CS-Hotel-Reserving-Console-App\Relatory " + R1List.Count + ".txt"))
                             foreach (string obj in Conv1)
                             {
                                 file.WriteLine(obj);
